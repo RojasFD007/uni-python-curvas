@@ -2,7 +2,7 @@
 
 Este script fue usado para trazar de forma automática las curvas de nivel de un terreno (2D y 3D). Es algo viejo, pero a alguien le puede servir para no hacerlo de forma manual.
 
-### Datos de entrada
+### Datos de entrada[^1]
 
 La primera fila contiene las coordenadas X, la primera columna contiene las coordenadas Y, y el resto son las alturas topográficas.
 
@@ -20,4 +20,4 @@ La primera fila contiene las coordenadas X, la primera columna contiene las coor
 |----------|----------|
 | ![Curvas de nivel](img/1.png) | ![Superficie 3D](img/2.png) |
 
-[^bignote]: UNI-RUACS Ingeniería Civil.
+[^1]: UNI-RUACS Ingeniería Civil.
