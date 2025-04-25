@@ -20,4 +20,4 @@ La primera fila contiene las coordenadas X, la primera columna contiene las coor
 |----------|----------|
 | ![Curvas de nivel](img/1.png) | ![Superficie 3D](img/2.png) |
 
-[^1]: UNI-RUACS Ingeniería Civil.
+[^bignote]: UNI-RUACS Ingeniería Civil.
