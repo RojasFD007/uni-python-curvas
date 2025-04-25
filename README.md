@@ -16,4 +16,6 @@ La primera fila contiene las coordenadas X, la primera columna contiene las coor
 
 ### Resultado
 
-![2D Plot](img/1.png)
+| Curvas 2D | Superficie 3D |
+|----------|----------|
+| ![Curvas de nivel](img/1.png) | ![Superficie 3D](img/2.png) |
