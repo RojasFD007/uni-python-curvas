@@ -14,3 +14,6 @@ La primera fila contiene las coordenadas X, la primera columna contiene las coor
 | 15   | 847.6 | 855.6 | 858.0 | 855.2 | 851.0 | 849.5 |
 | 10   | 848.4 | 854.3 | 856.7 | 854.5 | 848.7 | 838.3 |
 
+### Resultado
+
+![2D Plot](img/1.png)
